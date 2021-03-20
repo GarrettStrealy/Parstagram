@@ -27,4 +27,4 @@ Here's walkthroughs of implemented user stories:
 
 User can login, cancel posting
 
-<img src='https://media3.giphy.com/media/Lll5eQjD0MLXApAYsE/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
+<img src='https://media2.giphy.com/media/Lll5eQjD0MLXApAYsE/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
