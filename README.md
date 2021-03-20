@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's walkthroughs of implemented user stories:
 
-<img src='https://media3.giphy.com/media/dqFgtp2C1tqSK5yJjs/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
+<img src='https://media2.giphy.com/media/Lll5eQjD0MLXApAYsE/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
 
 User can login, cancel posting
 
