@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 
 Here's walkthroughs of implemented user stories:
 
-<img src='https://media0.giphy.com/media/wXM1zJOqZFII6zGWTe/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
+<img src='https://media3.giphy.com/media/dqFgtp2C1tqSK5yJjs/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
 
-User can login
+User can login, cancel posting
 
-<img src='https://media4.giphy.com/media/f5bjvKqhUKjh5Dw4zB/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
+<img src='https://media3.giphy.com/media/Lll5eQjD0MLXApAYsE/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
