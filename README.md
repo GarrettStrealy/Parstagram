@@ -23,8 +23,10 @@ The following **bonus** features are implemented:
 
 Here's walkthroughs of implemented user stories:
 
+User can sign up, post, take a photo, add a caption and post it to the server.
+
 <img src='https://media0.giphy.com/media/Fqiul9pjClpSht10cz/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
 
-User can login, cancel posting
+User can login, cancel posting, and view the last 20 photos.
 
 <img src='https://media2.giphy.com/media/Lll5eQjD0MLXApAYsE/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
