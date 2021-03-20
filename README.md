@@ -25,6 +25,6 @@ Here's walkthroughs of implemented user stories:
 
 <img src='https://media0.giphy.com/media/wXM1zJOqZFII6zGWTe/giphy.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
 
-### User can login
+User can login
 
 <img src='https://media4.giphy.com/media/f5bjvKqhUKjh5Dw4zB/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
