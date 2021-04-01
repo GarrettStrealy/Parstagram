@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+User can view comments on a post, add a new comment, and log out.
+
 <img src='https://media4.giphy.com/media/1konE3lFj4TSFWGjqu/giphy.gif' title='Video Walkthrough2.0' width='' alt='Video Walkthrough2.0' />
 
 User stays logged in across restarts.
