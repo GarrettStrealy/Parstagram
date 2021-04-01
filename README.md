@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media4.giphy.com/media/1konE3lFj4TSFWGjqu/giphy.gif' title='Video Walkthrough2.0' width='' alt='Video Walkthrough2.0' />
 
-### User stays logged in across restarts.
+User stays logged in across restarts.
 <img src='https://media0.giphy.com/media/dUqAyPYX3bRwV7TyPC/giphy.gif' title='Video Walkthrough2.1' width='' alt='Video Walkthrough2.1' />
 
 # Parstagram - Part I
